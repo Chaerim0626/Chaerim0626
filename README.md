@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerim0626)](https://github.com/Chaerim0626/github-readme-stats)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
