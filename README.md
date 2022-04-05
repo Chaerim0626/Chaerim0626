@@ -34,8 +34,10 @@ I've used at leat once.<br><br>
 <br> 
  <h3>☘ Activities ☘</h3>
 <img src= https://img.shields.io/badge/-KWTC%2042-green?style=flat-square&logo=&logoColor=white"/>
-#
-<br> 
+
+<br>
+<hr>
+<br>                                                                                                
 <h3> 💻 Github 💻</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaerim0626&show_icons=true&theme=graywhite&hide_border=true&icon_color=5DCBF3&title_color=4A4C4D&text_color=4A4C4D)
