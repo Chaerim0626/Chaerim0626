@@ -10,7 +10,7 @@
 <h6>◾ Front-end</h6>
 <h6>◾ Studying English</h6>
 <h6>◾ Taking pictures of Seoul</h6>
-<br> 
+
  <h3>:love_letter: Contact :love_letter: </h3>
  <a href="https://www.instagram.com/perarduaadastra__/">
 <img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
