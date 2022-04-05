@@ -34,7 +34,7 @@ I've used at leat once.<br><br>
 <br> 
  <h3>☘ Activities ☘</h3>
 <img src= https://img.shields.io/badge/-KWTC%2042-green?style=flat-square&logo=&logoColor=white"/>
-
+#
 <br> 
 <h3> 💻 Github 💻</h3>
 
