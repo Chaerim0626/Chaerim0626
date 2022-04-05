@@ -32,15 +32,19 @@ Used at leat once.<br><br>
 <br> 
  <h3>☘ xperiences ☘</h3>
 <img src= https://img.shields.io/badge/-KWTC%2042th-green?style=flat-square&logo=&logoColor=white"/>
+                                                                                                  
+                                                                                                  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=50B0D8&height=200&section=footer)
+ 
+</div>
 
 <br>                                                                                                
 <!-- <h3> 💻 Github 💻</h3>
                                                                                                   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerim0626&layout=compact&title_color=4A4C4D&text_color=4A4C4D&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerim0626&layout=compact&title_color=4A4C4D&text_color=4A4C4D&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+                                                                                                  -->
 
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=50B0D8&height=200&section=footer)
- 
-</div>
+
