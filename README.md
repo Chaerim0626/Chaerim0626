@@ -35,7 +35,6 @@ Used at leat once.<br><br>
 <img src= https://img.shields.io/badge/-KWTC%2042th-green?style=flat-square&logo=&logoColor=white"/>
 
 <br>
-<hr>
 <br>                                                                                                
 <h3> 💻 Github 💻</h3>
 
