@@ -10,7 +10,7 @@
 <h6>◾ Front-end</h6>
 <h6>◾ Studying English</h6>
 <h6>◾ Taking pictures of Seoul</h6>
-
+<br> 
  <h3>:love_letter: Contact :love_letter: </h3>
  <a href="https://www.instagram.com/perarduaadastra__/">
 <img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
@@ -21,7 +21,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  <img src="https://img.shields.io/badge/dasapcr@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dasapcr@gmail.com"/></a>
 
 
-
+<br> 
 <br> 
  <h3>🛠 Tech skills 🛠 </h3>
  <h6>Used at leat once.</h6><br>
@@ -33,7 +33,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-
+<br> 
 <br> 
  <h3>☘ Experiences ☘</h3>
                                                                                       
