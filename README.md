@@ -13,10 +13,9 @@
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
  
- <a href="dasapcr@gmail.com">
-<img src="https://img.shields.io/badge/dasapcr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF&link=mailto:snugyun01@gmail.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<a href="mailto:dasapcr@gmail.com">
+ <img src="https://img.shields.io/badge/dasapcr@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dasapcr@gmail.com"/></a>
+
 
 
 <br> 
