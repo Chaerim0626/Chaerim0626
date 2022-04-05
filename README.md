@@ -30,7 +30,7 @@ Used at leat once.<br><br>
 
 
 <br> 
- <h3>☘ xperiences ☘</h3>
+ <h3>☘ Experiences ☘</h3>
 <img src= https://img.shields.io/badge/-KWTC%2042th-green?style=flat-square&logo=&logoColor=white"/>
                                                                                                   
                                                                                                   
