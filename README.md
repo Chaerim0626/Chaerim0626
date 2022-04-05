@@ -1,7 +1,7 @@
 
-<div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Chaerim's%20Github&fontSize=40)
+ <div align=center>  
+![header](https://capsule-render.vercel.app/api?type=waving&color=50B0D8&height=200&section=header&text=Chaerim's%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=40&animation=twinkling)
 
 
 
@@ -11,8 +11,7 @@
   
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=50B0D8&height=200&section=footer)
+ 
 </div>
-
 
