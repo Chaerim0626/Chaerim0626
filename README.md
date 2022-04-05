@@ -25,13 +25,15 @@ Used at leat once.<br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 
 <br> 
  <h3>☘ Experiences ☘</h3>
 <img src= https://img.shields.io/badge/-KWTC%2042th-green?style=flat-square&logo=&logoColor=white"/>
+<img src= https://img.shields.io/badge/-Dlab-orange?style=flat-square&logo=&logoColor=white"/>
                                                                                                   
                                                                                                   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=50B0D8&height=200&section=footer)
