@@ -39,7 +39,6 @@ Used at leat once.<br><br>
 <br>                                                                                                
 <h3> 💻 Github 💻</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaerim0626&show_icons=true&theme=graywhite&hide_border=true&icon_color=5DCBF3&title_color=4A4C4D&text_color=4A4C4D)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerim0626&layout=compact&title_color=4A4C4D&text_color=4A4C4D&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
