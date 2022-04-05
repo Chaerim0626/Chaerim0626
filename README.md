@@ -6,7 +6,7 @@
  <h3>:raising_hand: Hi, I'm Chaerim! :raising_hand:</h3> 
  I go to Kwangwoon University. <br>
  My major is Computer Engineering.
- <br> <br>
+ <br> 
  <h3>:love_letter: Contact :love_letter: </h3>
  <br>
  
@@ -22,7 +22,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 
-<br> <br>
+<br> 
  <h3>🛠 Tech skills 🛠 </h3>
 I've used at leat once.<br><br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -33,11 +33,11 @@ I've used at leat once.<br><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 
-<br> <br>
+<br> 
  <h3>☘ Activities ☘</h3>
 <img src= https://img.shields.io/badge/-KWTC%2042-green?style=flat-square&logo=&logoColor=white"/>
 
-<br> <br>
+<br> 
 <h3> 💻 Github 💻</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaerim0626&show_icons=true&theme=graywhite&hide_border=true&icon_color=5DCBF3&title_color=4A4C4D&text_color=4A4C4D)
