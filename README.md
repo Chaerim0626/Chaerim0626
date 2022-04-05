@@ -6,7 +6,6 @@
  My major is Computer Engineering.
  <br> 
  <h3>:love_letter: Contact :love_letter: </h3>
- <br>
  
  
  <a href="https://www.instagram.com/perarduaadastra__/">
@@ -22,7 +21,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <br> 
  <h3>🛠 Tech skills 🛠 </h3>
-I've used at leat once.<br><br>
+Used at leat once.<br><br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
