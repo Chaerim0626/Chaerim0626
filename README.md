@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50B0D8&height=200&section=header&text=Chaerim's%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=40&animation=twinkling) 
  
  <h3>:raising_hand: Hello, I'm Chaerim! :raising_hand:</h3> 
- <h6>I go to Kwangwoon University.
-  I major in Software.</h6>
+ <h5>I go to Kwangwoon University.
+  I major in Software.</h5>
  
 <h3>✨ be into ✨</h3> 
-<h6>◾ Front-end</h6>
-<h6>◾ Studying English</h6>
-<h6>◾ Taking pictures of Seoul</h6>
+<h5>◾ Front-end</h5>
+<h5>◾ Studying English</h5>
+<h5>◾ Taking pictures of Seoul</h5>
 <br> 
  <h3>:love_letter: Contact :love_letter: </h3>
  <a href="https://www.instagram.com/perarduaadastra__/">
