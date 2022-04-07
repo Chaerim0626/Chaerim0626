@@ -11,7 +11,7 @@
 <h5>◾ Studying English</h5>
 <h5>◾ Taking pictures of Seoul</h5>
 <br> 
- <h3>:love_letter: Contact :love_letter: </h3>
+ <h3>:love_letter: Link :love_letter: </h3>
  <a href="https://www.instagram.com/perarduaadastra__/">
 <img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -20,6 +20,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <a href="mailto:dasapcr@gmail.com">
  <img src="https://img.shields.io/badge/dasapcr@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dasapcr@gmail.com"/></a>
 
+ <a href="https://www.notion.so/chaerim0626/">
+ <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br> 
 <br> 
