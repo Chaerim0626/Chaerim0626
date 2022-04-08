@@ -38,7 +38,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br> 
 <br> 
  <h3>☘ Experiences ☘</h3>
-                                                                                      
+                                                                                        
 <h6><img src= "https://img.shields.io/badge/-KWTC%2042th-green"/> Kwangwoon Tennis Club 2020.03~</h6>
 <h6><img src= "https://img.shields.io/badge/-%20SW%20Preparatory%20School%20-3766AB"/> Kwangwoon Python Tutor 2021.02</h6>
 <h6><img src= "https://img.shields.io/badge/-Summer%20SW%20School%20-lightgray"/> Kwangwoon C Tutor 2021.07</h6>
