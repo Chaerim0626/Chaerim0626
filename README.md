@@ -47,9 +47,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <!--<h6><img src= "https://img.shields.io/badge/UMC-2th-00C386"/> 2022.03~</h6> -->
                                                                                                   
 <br>
-<h3> 💻 Github 💻</h3>
-                                                                                                  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerim0626&layout=compact&title_color=4A4C4D&text_color=4A4C4D&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=50B0D8&height=200&section=footer)
  
