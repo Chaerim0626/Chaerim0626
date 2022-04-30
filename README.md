@@ -24,7 +24,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br> 
-<br> 
+<br>   
  <h3>🛠 Tech skills 🛠 </h3>
  <h6>Used at leat once.</h6><br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
