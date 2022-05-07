@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50B0D8&height=200&section=header&text=Chaerim's%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=40&animation=twinkling) 
  
  <h3>:raising_hand: Hello, I'm Chaerim! :raising_hand:</h3> 
- <h5>I go to Kwangwoon University.
+ <h5>I go to Kwangwoon University.  
   I major in Software.</h5>
  
 <h3>✨ be into ✨</h3> 
