@@ -4,7 +4,7 @@
  
  <h3>:raising_hand: Hello, I'm Chaerim! :raising_hand:</h3> 
  <h5>I go to Kwangwoon University.  
-  I major in Software.</h5>
+  I major in Software.</h5> 
  
 <h3>✨ be into ✨</h3> 
 <h5>◾ Front-end</h5>
