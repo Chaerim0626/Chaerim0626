@@ -1,6 +1,6 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=8045FF&height=200&section=header&text=Chaerim's%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=40&animation=twinkling) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=B694FF&height=200&section=header&text=Chaerim's%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=40&animation=twinkling) 
  
  <h3>:raising_hand: Hello, I'm Chaerim! :raising_hand:</h3> 
  <h5>I go to Kwangwoon University.  
@@ -49,7 +49,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br>
 
  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=8045FF&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=B694FF&height=200&section=footer)
  
 </div>
 
