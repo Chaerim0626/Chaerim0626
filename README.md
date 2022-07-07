@@ -9,7 +9,7 @@
 <h3>✨ be into ✨</h3> 
 <h5>◾ Front-end</h5>
 <h5>◾ Studying English</h5>
-<h5>◾ Taking pictures of Seoul</h5>
+<h5>◾ Taking pictures</h5>
 <br> 
  <h3>:love_letter: Link :love_letter: </h3>
  <a href="https://www.instagram.com/perarduaadastra__/">
