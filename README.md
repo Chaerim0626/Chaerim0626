@@ -1,7 +1,6 @@
 <div align=center>
-<h3>:raising_hand: Hello, I'm Chaerim! :raising_hand:</h3> 
- <h5>I go to Kwangwoon University.  
-  I major in Software.</h5> 
+<h4>:raising_hand: Hello, I'm Chaerim! :raising_hand:</h4> 
+I go to Kwangwoon University and major in Software. 
  <h3>:love_letter: Contact :love_letter: </h3>
  <a href="https://www.instagram.com/perarduaadastra__/">
 <img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
