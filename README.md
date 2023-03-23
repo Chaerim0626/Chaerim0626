@@ -3,6 +3,7 @@
 
 
 <h3> 💻About me💻 </h3>
+I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
 I'm a junior Web developer that has to learn a lot. <br>
 I'm into table tennis and billiards these days. <br>
