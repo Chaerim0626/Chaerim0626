@@ -31,6 +31,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </p>
  
 
-![](https://github.com/kyu0918/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/Chaerim0626/github-stats-transparent/blob/output/generated/languages.svg)
 
 </div>
