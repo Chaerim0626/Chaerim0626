@@ -13,7 +13,8 @@ I'm into table tennis and billiards these days. <br>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoWidth=20">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoWidth=20&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoWidth=20&logoColor=black"/><br>
+
 
 ### :love_letter: Contact :love_letter:
 <a href="https://www.instagram.com/perarduaadastra__/">
@@ -21,6 +22,8 @@ I'm into table tennis and billiards these days. <br>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="mailto:dasapcr@gmail.com">
- <img src="https://img.shields.io/badge/dasapcr@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dasapcr@gmail.com"/></a>
+ <img src="https://img.shields.io/badge/dasapcr@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dasapcr@gmail.com"/></a><br><br>
 
+ 
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </div>
