@@ -25,5 +25,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  <img src="https://img.shields.io/badge/dasapcr@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dasapcr@gmail.com"/></a><br><br>
 
  
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerim0626&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
