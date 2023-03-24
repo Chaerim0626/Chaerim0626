@@ -6,7 +6,7 @@
 I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
 I'm a junior Web developer that has to learn a lot. <br>
-I'm into table tennis and billiards these days. <br>
+I'm into table tennis and billiards these days. <br><br>
 <br>
 
 <p align="center">
@@ -16,7 +16,7 @@ I'm into table tennis and billiards these days. <br>
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp<br>
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white&logoWidth=20">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoWidth=20&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoWidth=20&logoColor=white"/><br><br>
 
 </p>
 
