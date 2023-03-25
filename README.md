@@ -3,13 +3,14 @@
 <h1> :raising_hand: Hello, I'm Chaerim! :raising_hand: </h1>
 
 
-<h3> 💻About me💻 </h3>
+<h3> 💻 About me 💻 </h3>
 I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
 I'm a junior Web developer that has to learn a lot. <br>
 I'm into table tennis and billiards these days. <br><br>
 <br>
 
+ <h3 align="center">🔧 Teck Stack 🔧</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>&nbsp
@@ -25,7 +26,7 @@ I'm into table tennis and billiards these days. <br><br>
 
 </p>
 
-### :love_letter: Contact :love_letter:
+ <h3 align="center">🗳️ Contact 🗳️</h3>
 <p align="center">
 <a href="https://www.instagram.com/perarduaadastra__/">
 <img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
