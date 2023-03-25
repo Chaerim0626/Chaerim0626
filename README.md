@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Chaerim🌠ㅤ&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Chaerim🌠ㅤ&fontAlign=80&fontAlignY=40&color=gradient&desc=chaerim's%20github&descSize=20&descAlign=78&descAlignY=60)
 <div align=center>
 <h1> :raising_hand: Hello, I'm Chaerim! :raising_hand: </h1>
 
