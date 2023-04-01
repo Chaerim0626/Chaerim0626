@@ -28,9 +28,8 @@ I'm into table tennis and billiards these days. <br>
  👩‍💻 KWU Preparatory School <b>Python Tutor</b> <i>(2021.02)</i><br>
  👩‍💻 KWU Summer School <b>C Tutor</b> <i>(2021.07)</i><br>
  👩‍💻 DLAB Coding Academy <b>Instructor</b> at Jamsil Campus <i>(2022.03 ~ 2022.08)</i><br>
- 🦁 LikeLion KwangWoon University 10th member <i>(2022.03 ~ 2022.12)</i><br>
  👩‍💻 KWU Preparatory School <b>Python Tutor</b> <i>(2023.02)</i><br>
- 🦁 LikeLion KwangWoon University 11th manager <i>(2023.03 ~ )</i><br>
+ 🦁 LikeLion KwangWoon University 10~11th member / manager <i>(2022.03 ~ )</i><br>
  </p>
 <br>
  <h3 align="center">💡 Contact 💡</h3>
