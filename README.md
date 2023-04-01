@@ -1,13 +1,12 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Chaerim🌠ㅤ&fontAlign=80&fontAlignY=40&color=gradient&desc=chaerim's%20github&descSize=20&descAlign=78&descAlignY=60)
 <div align=center>
-<h1> :raising_hand: Hello, I'm Chaerim Park! :raising_hand: </h1>
-
+<h1> 🙋‍♀️ Hello, I'm Chaerim Park! </h1>
 
 <h3> 💻 About me 💻 </h3>
 I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
 I'm a junior Web developer that has to learn a lot. <br>
-I'm into table tennis and billiards these days. <br><br>
+I'm into table tennis and billiards these days. <br>
 
 <h3 align="center">🔧 Teck Stack 🔧</h3>
 <p align="center">
@@ -21,18 +20,26 @@ I'm into table tennis and billiards these days. <br><br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoWidth=20&logoColor=white"/><br><br>
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoWidth=20&logoColor=white"/><br>
 </p>
- 
- <h3 align="center">🗳️ Contact 🗳️</h3>
+<br>
+<h3 align="center">🪐 Experiences 🪐</h3>
+<p align="center">
+ 👩‍💻 KWU Preparatory School Python Tutor <i>(2021.02)</i><br>
+ 👩‍💻 KWU Summer School C Tutor <i>(2021.07)</i><br>
+ 👩‍💻 DLAB Coding Academy Instructor at Jamsil Campus <i>(2022.03 ~ 2022.08)</i><br>
+ 🦁 LikeLion KwangWoon University 10th member <i>(2022.03 ~ 2022.12)</i><br>
+ 👩‍💻 KWU Preparatory School Python Tutor <i>(2023.02)</i><br>
+ 🦁 LikeLion KwangWoon University 11th manager <i>(2023.03 ~ )</i><br>
+ </p>
+<br>
+ <h3 align="center">💡 Contact 💡</h3>
 <p align="center">
 <a href="https://www.instagram.com/perarduaadastra__/">
 <img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="mailto:dasapcr@gmail.com">
- <img src="https://img.shields.io/badge/dasapcr@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=dasapcr@gmail.com"/></a><br><br>
+ <img src="https://img.shields.io/badge/dasapcr@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=dasapcr@gmail.com"/></a><br>
 
  <h1> </h1>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaerim0626&count_bg=%2300BEFF&title_bg=%234D4D4D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
