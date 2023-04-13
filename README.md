@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Chaerim🌠ㅤ&fontAlign=80&fontAlignY=40&color=gradient&desc=chaerim's%20github&descSize=20&descAlign=78&descAlignY=60)
 <div align=center>
 <h1> 🙋‍♀️ Hello, I'm Chaerim Park! </h1>
-
+ 
 <h3> 💻 About me 💻 </h3>
 I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
