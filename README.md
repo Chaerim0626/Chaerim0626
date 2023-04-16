@@ -2,13 +2,13 @@
 <div align=center>
 <h1> 🙋‍♀️ Hello, I'm Chaerim Park! </h1>
  
-<h3> 💻 About me 💻 </h3>
+<h4>About me 💻</h4>
 I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
 I'm a junior Web developer that has to learn a lot. <br>
 I'm into playing pool these days. <br>
 
-<h3 align="center">🔧 Teck Stack 🔧</h3>
+<h4 align="center">Teck Stack 🔧</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>&nbsp
@@ -23,7 +23,7 @@ I'm into playing pool these days. <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoWidth=20&logoColor=white"/><br>
 </p>
 <br>
-<h3 align="center">🪐 Experiences 🪐</h3>
+<h4 align="center">Experiences 🪐</h3>
 <p align="center">
  <h6>KWU 공학설계입문 작품전시회 최우수상 수상</h6>
  <h6>KWU SW예비학교 <b>Python Tutor</b> <i>(2021.02)</i></h6>
@@ -34,7 +34,7 @@ I'm into playing pool these days. <br>
  <h6>제7회 산학연계SW프로젝트 총장상 수상<i>(2023.03)</i></h6>
  </p>
 <br>
- <h3 align="center">💡 Contact 💡</h3>
+ <h4 align="center">Contact 💡</h3>
 <p align="center">
 <a href="https://www.instagram.com/perarduaadastra__/">
 <img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
