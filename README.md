@@ -25,11 +25,13 @@ I'm into playing pool these days. <br>
 <br>
 <h3 align="center">🪐 Experiences 🪐</h3>
 <p align="center">
- 👩‍💻 KWU Preparatory School <b>Python Tutor</b> <i>(2021.02)</i><br>
- 👩‍💻 KWU Summer School <b>C Tutor</b> <i>(2021.07)</i><br>
- 👩‍💻 DLAB Coding Academy <b>Instructor</b> at Jamsil Campus <i>(2022.03 ~ 2022.08)</i><br>
- 👩‍💻 KWU Preparatory School <b>Python Tutor</b> <i>(2023.02)</i><br>
- 🦁 LikeLion KwangWoon University 10~11th member / manager <i>(2022.03 ~ )</i><br>
+ <h6>KWU 공학설계입문 작품전시회 최우수상 수상</h6>
+ <h6>KWU SW예비학교 <b>Python Tutor</b> <i>(2021.02)</i></h6>
+ <h6>KWU 여름SW학교 <b>C Tutor</b> <i>(2021.07)</i></h6>
+ <h6>DLAB Coding Academy <b>Instructor</b> at Jamsil Campus <i>(2022.03 ~ 2022.08)</i></h6>
+ <h6>KWU SW예비학교 <b>Python Tutor</b> <i>(2023.02)</i></h6>
+ <h6>LikeLion KwangWoon University 10~11th member / manager <i>(2022.03 ~ )</i></h6>
+ <h6>제7회 산학연계SW프로젝트 총장상 수상 - <a href="https://npsw.kw.ac.kr/site/sub.php?Tid=27&Ctnum=322&Ctid=HM322&mod=view&no=789&page=2&sg=&st=&search_yes=">현대트랜시스사 제품관련 네이버 카페 차량 동호회 게시글과 유사 RO정보 분석 제공 시스템</h6>
  </p>
 <br>
  <h3 align="center">💡 Contact 💡</h3>
