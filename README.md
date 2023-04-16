@@ -30,7 +30,7 @@ I'm into playing pool these days.
  <h6>KWU 여름SW학교 <b>C Tutor</b> <i>(2021.07)</i></h6>
  <h6>DLAB Coding Academy <b>Instructor</b> at Jamsil Campus <i>(2022.03 ~ 2022.08)</i></h6>
  <h6>KWU SW예비학교 <b>Python Tutor</b> <i>(2023.02)</i></h6>
- <h6>LikeLion KwangWoon University 10~11th member / manager <i>(2022.03 ~ )</i></h6>
+ <h6>LikeLion KWU 10~11th member / manager <i>(2022.03 ~ )</i></h6>
  <h6>제7회 산학연계SW프로젝트 총장상 수상<i>(2023.03)</i></h6>
  </p>
 <br>
