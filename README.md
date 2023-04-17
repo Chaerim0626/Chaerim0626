@@ -22,7 +22,7 @@ I'm into playing pool these days.
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoWidth=20&logoColor=white"/><br>
 </p>
- <h4 align="center">Contact 💡</h3>
+<h4 align="center">Contact 💡</h3>
 <p align="center">
 <a href="https://www.instagram.com/perarduaadastra__/">
 <img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
