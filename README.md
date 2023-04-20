@@ -9,6 +9,7 @@ I'm a junior Web developer that has to learn a lot. <br>
  
 <h4>🦁LikeLion KwangWoon University 11th manager <i>(2023 ~ing )</i></h4>
 
+<br> 
 <h4 align="center">Teck Stack 🔧</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
