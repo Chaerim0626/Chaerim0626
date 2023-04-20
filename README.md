@@ -7,6 +7,8 @@ I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
 I'm a junior Web developer that has to learn a lot. <br>
 I'm into playing pool these days.
+ 
+<h5>🦁LikeLion KwangWoon University 11th manager <i>(2023 ~ )</i></h5>
 
 <h4 align="center">Teck Stack 🔧</h4>
 <p align="center">
