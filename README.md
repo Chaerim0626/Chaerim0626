@@ -40,4 +40,4 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 </div>
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
