@@ -3,7 +3,6 @@
 <h2> 🙋‍♀️ Hello, I'm Chaerim Park! </h2>
  
 <h4>About me 💻</h4>
-안녕하세요, 저는 광운대학교 소프트웨어학부 재학중입니다. 요즘은 당구에 빠져있어요 😏 <br>
  
 I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
