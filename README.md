@@ -6,8 +6,9 @@
  
 I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
+I'm a junior Web developer that has to learn a lot. <br>
 <h4>🦁LikeLion KwangWoon University 11th manager <i>(2023 ~ing )</i></h4>
-<br> 
+ 
 <h4 align="center">Teck Stack 🔧</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
@@ -31,7 +32,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
  <h1></h1>
  <img src="http://mazandi.herokuapp.com/api?handle=dasapcr&theme=warm"/><br>
-</div>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaerim0626&count_bg=%2300BEFF&title_bg=%234D4D4D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
+
+</div>
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
