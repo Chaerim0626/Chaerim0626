@@ -3,10 +3,9 @@
 <h2> 🙋‍♀️ Hello, I'm Chaerim Park! </h2>
  
 <h4>About me 💻</h4>
- 
+
 I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
-I'm a junior Web developer that has to learn a lot. <br>
 <h4>🦁LikeLion KwangWoon University 11th manager <i>(2023 ~ing )</i></h4>
  
 <h4 align="center">Teck Stack 🔧</h4>
