@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chaerim's%20Github🌠ㅤ&fontAlign=65&fontAlignY=40&color=gradient&desc=Web%20developer&descSize=20&descAlign=78&descAlignY=60)
 <div align=center>
-<h2> 🙋‍♀️ Hello, I'm Chaerim Park! </h2>
+<h2> 🎧 Hello, I'm Chaerim Park! </h2>
  
 <h4>About me 💻</h4>
 
@@ -31,7 +31,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
  <br>
  <br>
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaerim0626&count_bg=%2300BEFF&title_bg=%234D4D4D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2353C9F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B4&edge_flat=false"/></a>
  <br>
  
  <br>
