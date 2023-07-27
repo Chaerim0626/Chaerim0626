@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chaerim's%20Github🌠ㅤ&fontAlign=65&fontAlignY=40&color=gradient&desc=Web%20develper&descSize=20&descAlign=78&descAlignY=60)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chaerim's%20Github🌠ㅤ&fontAlign=65&fontAlignY=40&color=gradient&desc=Web%20developer&descSize=20&descAlign=78&descAlignY=60)
 <div align=center>
 <h2> 🙋‍♀️ Hello, I'm Chaerim Park! </h2>
  
