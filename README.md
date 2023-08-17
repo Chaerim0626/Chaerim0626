@@ -6,7 +6,6 @@
 
 I live in Seoul, South Korea. <br>
 I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
-<h4>🦁LikeLion KwangWoon University 11th manager <i>(2023 ~ing )</i></h4>
  
 <h4 align="center">Teck Stack 🔧</h4>
 <p align="center">
