@@ -5,7 +5,8 @@
 <h4>About me 💻</h4>
 
 I live in Seoul, South Korea. <br>
-I go to <strong>Kwangwoon University</strong> and major in <strong>Software</strong>. <br>
+I go to <strong>Kwangwoon University. <br>
+I'm currently learning React, Next.js 📚
  
 <h4 align="center">Teck Stack 🔧</h4>
 <p align="center">
