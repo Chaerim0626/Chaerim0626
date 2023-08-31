@@ -1,13 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chaerim's%20Github🌠ㅤ&fontAlign=65&fontAlignY=40&color=gradient&desc=Web%20developer&descSize=20&descAlign=78&descAlignY=60)
 <div align=center>
-<h2> 🎧 Hello 🎧 </h2>
- 
-<h4>About me 💻</h4>
+<h2> 🎧🎲🎱 </h2>
 
-I live in Seoul, South Korea. <br>
-I go to <strong>Kwangwoon University.</strong> <br>
-I'm currently learning React, Next.js 📚
- 
+<h6>Kwangwoon University, Seoul, South Korea 🛫 </h6>
+<h6>Currently learning React, Next.js... ✨</h6>
+ <br>
 <h4 align="center">Teck Stack 🔧</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
