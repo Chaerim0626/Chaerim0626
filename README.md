@@ -3,16 +3,18 @@
 <h2> 🎧🎲🎱 </h2>
 
 <h6>Kwangwoon University, Seoul, South Korea 🛫 </h6>
-<h6>Currently learning React, Next.js... ✨</h6>
+<h6>Currently learning React... ✨</h6>
  <br>
 <h4 align="center">Teck Stack 🔧</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>&nbsp
-<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp<br>
-<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>&nbsp
+<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp<br>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=232F3E"/></a>&nbsp
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/></a>&nbsp
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
