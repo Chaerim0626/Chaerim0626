@@ -4,6 +4,7 @@
 
 <h6>Kwangwoon University, Seoul, South Korea 🛫 </h6>
 <h6>Currently learning ML... ✨</h6>
+<h6>Seeking a meaningful life...</h6>
  <br>
 <h4 align="center">Teck Stack 🔧</h4>
 <p align="center">
