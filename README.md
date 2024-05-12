@@ -3,7 +3,8 @@
 <h2> 🎧🎲🎱 </h2>
 
 <h6>Kwangwoon University, Seoul, South Korea 🛫 </h6>
-<h6>Currently learning ML... ✨</h6>
+<h6>Currently learning DL... ✨</h6>
+<h6>Studying <b>wind data prediction... </b> 🌬️🍃</h6>
 <h6>Seeking a meaningful life...</h6>
  <br>
 <h4 align="center">Teck Stack 🔧</h4>
@@ -14,6 +15,7 @@
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp<br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=232F3E"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/></a>&nbsp
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>&nbsp<br>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/></a>&nbsp
