@@ -7,7 +7,7 @@
 <h6>Studying <b>wind data prediction... </b> 🌬️🍃</h6>
 <h6>Seeking a meaningful life...</h6>
  <br>
-<h4 align="center">Teck Stack 🔧</h4>
+<h4 align="center">Teck Stack 🔧</h4> 
 <p align="center">
  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
