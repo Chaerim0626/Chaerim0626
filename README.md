@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chaerim's%20GitHub🌌ㅤ&fontAlign=65&fontAlignY=40&color=gradient&desc=%20developer&descSize=20&descAlign=78&descAlignY=60)
 <div align=center>
 <h2> 🎧🎲🎱 </h2>
- 
+  
 <h6>Kwangwoon University, Seoul, South Korea 🛫 </h6>
 <h6>Currently learning DL... ✨</h6>
 <h6>Studying <b>wind data prediction... </b> 🌬️🍃</h6>
