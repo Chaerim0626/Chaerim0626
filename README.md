@@ -3,8 +3,8 @@
 <h2> 🎧🎲🎱 </h2> 
   
 <h6>Kwangwoon University, Seoul, South Korea 🛫 </h6>
-<h6>Currently learning DL... ✨</h6>
-<h6>Studying <b>wind data prediction... </b> 🌬️🍃</h6>
+<h6>Currently learning DL. ✨</h6>
+<h6>Studying <b>DL and LLM. </b> 🌬️🍃</h6>
 <h6>Seeking a meaningful life...</h6>
  <br>
 <h4 align="center">Teck Stack 🔧</h4> 
