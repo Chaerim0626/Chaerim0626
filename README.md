@@ -1,13 +1,12 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chaerim's%20GitHub🌌ㅤ&fontAlign=65&fontAlignY=40&color=gradient&desc=%20developer&descSize=20&descAlign=78&descAlignY=60)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chaerim's%20GitHub🌌ㅤ&fontAlign=65&fontAlignY=40&color=gradient&desc=%20IT%20Developer&descSize=20&descAlign=78&descAlignY=60)
 <div align=center>
 <h2> 🎧🎲🎱 </h2> 
   
-<h6>Kwangwoon University, Seoul, South Korea 🛫 </h6>
-<h6>Currently learning DL. ✨</h6>
-<h6>Studying <b>DL and LLM. </b> 🌬️🍃</h6>
-<h6>Seeking a meaningful life...</h6>
- <br>
-<h4 align="center">Teck Stack 🔧</h4> 
+Kwangwoon University, Seoul, South Korea 🛫 <br>
+Currently learning DL. ✨<br>
+Studying <b>DL and RAG. </b> 🌬️🍃
+ <br><br>
+<h3 align="center">Teck Stack 🔧</h3> 
 <p align="center">
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>&nbsp
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp<br>
@@ -21,7 +20,7 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoWidth=20&logoColor=white"/><br>
 </p>
-<h4 align="center">Contact 💡</h3>
+<h3 align="center">Contact 💡</h3>
 <p align="center">
 <a href="https://www.instagram.com/perarduaadastra__/">
 <img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
