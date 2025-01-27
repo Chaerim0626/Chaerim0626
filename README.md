@@ -7,7 +7,7 @@ Currently learning DL. ✨<br>
 Studying <b>DL and RAG. </b> 🌬️🍃
  <br><br>
 <h3 align="center">Teck Stack 🔧</h3> 
-<p align="center">
+<p align="center"> 
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>&nbsp
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp<br>
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/></a>&nbsp
