@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chaerim's%20GitHub🌌ㅤ&fontAlign=65&fontAlignY=40&color=gradient&desc=%20IT%20Developer&descSize=20&descAlign=78&descAlignY=60)
 <div align=center>
-<h2> 🎧🎲🎱 </h2> 
+<h2> 🎧🎲🎱 </h2>  
   
 Kwangwoon University, Seoul, South Korea 🛫 <br>
 Currently learning DL. ✨<br>
