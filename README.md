@@ -22,9 +22,6 @@ Studying <b>DL and RAG. </b> 🌬️🍃
 </p>
 <h3 align="center">Contact 💡</h3>
 <p align="center">
-<a href="https://www.instagram.com/perarduaadastra__/">
-<img src="https://img.shields.io/badge/perarduaadastra__-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/perarduaadastra__/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="mailto:dasapcr@kw.ac.kr">
  <img src="https://img.shields.io/badge/dasapcr@kw.ac.kr-78222D?style=flat&logo=Gmail&logoColor=white&link=dasapcr@kw.ac.kr"/></a><br>
 
